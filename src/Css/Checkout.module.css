@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.checkoutmain {
+  width: 100%;
+  height: 646px;
+  background-color: #f7f7f7;
+  padding-top: 140px;
+}
+
+.indiv2 {
+  background-color: white;
+  width: 93%;
+  /* height: 500px; */
+  margin: auto;
+  display: flex;
+}
+
+.indiv2 > div:nth-child(1) {
+  width: 60%;
+  /* background-color: green; */
+  border: 1px solid rgb(218, 214, 214);
+  border-radius: 4px;
+  padding: 20px 30px;
+}
+
+.indiv2 > div:nth-child(2) {
+  width: 40%;
+  border: 1px solid rgb(218, 214, 214);
+  border-radius: 4px;
+  padding: 20px 30px;
+}
+
+.chep1{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.checpro1{
+    width: 100%;
+    margin-top: 30px;
+    display: flex;
+}
+
+.checpro1>img{
+   width: 70px;
+}
+
+.chedes{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    color: #6b7274;
+    width: 170px;
+    margin-left: 14px;
+}
+
+.chedes2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #6b7274;
+    width: 170px;
+    margin-left: 14px;
+    margin-top: 8px;
+}
+
+.chedes3{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #6b7274;
+    width: 170px;
+    margin-left: 14px;
+    padding-left: 86px;
+}
+
+.chedes4{
+  
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    color: #6b7274;
+    width: 400px;
+    margin-left: 14px;
+    padding-left: 120px;
+}
+
+.checpay{
+    border: none;
+    outline: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+    background-color: #e40046;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.checpay:hover{
+    background-color: #f06991;
+}
+
+
+.detailpay{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin-top: 35px;
+    display: flex;
+    align-items: center;
+}
+
+.detailpay>input{
+    border: 1px solid rgb(218, 214, 214);
+    width: 280px;
+    height: 40px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    border-radius: 4px;
+    padding-left: 16px;
+}
+
+.chep2{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-bottom: 42px;
+}
+
+.payin1{
+    margin-left: 28px;
+}
+
+.payin2{
+    margin-left: 32px;
+}
+
+.payin3{
+    margin-left: 12px;
+}
+
+.payin4{
+    margin-left: 28px;
+}
+
+.payin5{
+    margin-left: 16px;
+}
